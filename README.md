@@ -1,3 +1,3 @@
 # ThoughtWorks-Challenge-API
-Challenge Api by Thoughtwork resolution
-Refer first the document of Level explained in Levels-ThoughtWorksChallengesApi.txt
+Challenge Api by Thoughtwork resolution.
+Refer the document of Levels explained in Levels-ThoughtWorksChallengesApi.txt
